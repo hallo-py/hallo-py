@@ -2,7 +2,7 @@
 - 👀 我对制作游戏、制作网页、做一些小玩意感兴趣
 - 🌱 我正在学习Unity
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 我的邮箱是:PythonChong@outlook.com
+- 📫 我的邮箱是:PythonChong@outlook.com，CSDN账号是:https://blog.csdn.net/RedStone114514
 - 😄 叫我“Python虫”就好了
 - ⚡ “Python虫”这个名字我是在神奇代码岛(box3)上第一次用。本身我在github上我想用“PythonChong”的但是违规了，所以我用了“hallo-py”这个名字
 
@@ -11,7 +11,7 @@
 -  👀  I am interested in making games, creating web pages, and making some small things
 -  🌱  I am learning Unity
 <!--- -  💞 ️ I’m looking to collaborate on ... --->
--  📫  My email is: PythonChong@outlook.com
+-  📫  My email is: PythonChong@outlook.com, CSDN account is: https://blog.csdn.net/RedStone114514
 -  😄  Just call me "Python虫"
 -  ⚡  I first used the name "Python虫" on box3(神奇代码岛). I wanted to use "PythonChong" on GitHub, but it was a violation, so I used the name "hallo py"
 
