@@ -15,6 +15,10 @@
 -  😄  Just call me "Python虫"
 -  ⚡  I first used the name "Python虫" on box3(神奇代码岛). I wanted to use "PythonChong" on GitHub, but it was a violation, so I used the name "hallo py"
 
+**我除了名字与python团队一样，也会写python语言，但是我和他们没有任何联系**
+
+**I also know how to write Python language, except for my name which is the same as the Python team, but I have no connection with them**
+
 <!---
 hallo-py/hallo-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
