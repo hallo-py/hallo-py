@@ -1,4 +1,8 @@
-## Hi there 👋
+**已改名，现名称 Pytac**
+
+[新GitHub主页](https://github.com/pytac)
+
+[新 个人博客](https://pytac.github.io)
 
 <!--
 **hallo-py/hallo-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
